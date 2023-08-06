@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webapp-arma'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EAEEDFB202004D6BB378EA8502CC382D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E62D15CBD61E4AB9AC922835F87A0FFF }}
           package: .
